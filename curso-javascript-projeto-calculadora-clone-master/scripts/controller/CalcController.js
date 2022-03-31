@@ -15,7 +15,7 @@ class CalcController {
         setInterval(() => {
             this.setDisplayDateTime()
         }, 1000)
-
+         // aqui mostra as horas
         /*
         setTimeout(()=>{
             clearInterval(Interval)
